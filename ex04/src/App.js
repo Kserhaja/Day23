@@ -30,7 +30,7 @@ class App extends Component {
     render() {
         const { characters } = this.state;
         return (
-            
+
 
             <div className="container">
                 <Table characterData={characters}
